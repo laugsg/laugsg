@@ -15,7 +15,6 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 
 
 ### MERN Full Stack 💙
-<br />
 
 <a href="https://reactjs.org/" title="React">
 <img align="left" height="52" width="52" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -52,9 +51,9 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 
 <br />
 <br />
+<br />
 
 ### Python Full Stack & Data Science
-<br />
 
 <a href="https://www.python.org/" title="Python">
 <img align="left" style="border-radius:25px;" height="52" width="52" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -86,9 +85,9 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 
 <br />
 <br />
+<br />
 
 ### Databases
-<br />
 
 <a href="https://www.mysql.com/" title="MySQL">
 <img align="left" style="border-radius:25px;" height="52" width="52" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" />
@@ -104,9 +103,9 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 
 <br />
 <br />
+<br />
 
 ### Web stack
-<br />
 
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL">
 <img align="left" style="border-radius:25px;" height="52" width="52" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -147,13 +146,13 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 
 ## Music
 Some of my favorites Spotify Playlist
-* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> > [Homer el Mero Mero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vg7qE?si=7dcb7637b5df4c54)
+* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> [Homer el Mero Mero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vg7qE?si=7dcb7637b5df4c54)
 
-* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> > [Galvan Real](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jjzoI?si=6960e8024f014d1b)
+* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> [Galvan Real](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jjzoI?si=6960e8024f014d1b)
 
-* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> > [Creedence Clearwater Revival](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2avqWA?si=e32f109fa4814e2e)
+* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> [Creedence Clearwater Revival](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2avqWA?si=e32f109fa4814e2e)
 
-* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> > [Marshmello](https://open.spotify.com/playlist/37i9dQZF1DXbraCN8mShma?si=254e07ca4a3946d0)
+* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> [Marshmello](https://open.spotify.com/playlist/37i9dQZF1DXbraCN8mShma?si=254e07ca4a3946d0)
 
-* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> > [AC/DC](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA?si=17dbe6baa2e64201)
+* <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> [AC/DC](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA?si=17dbe6baa2e64201)
 
