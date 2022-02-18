@@ -148,7 +148,7 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 <br />
 
 
-## Music
+# Music
 Some of my favorites Spotify Playlist
 * <img align="left" style="border-radius:25px;" height="22" width="22" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" /> [Homer el Mero Mero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vg7qE?si=7dcb7637b5df4c54)
 
