@@ -143,6 +143,10 @@ Even the ecosystem around them like Axios Redux Typescript GraphQL Mongoose SQLA
 <img align="left" style="border-radius:25px;" height="52" width="52" src="https://avatars.githubusercontent.com/u/9338635?s=200&v=4" />
 </a>
 
+<br />
+<br />
+<br />
+
 
 ## Music
 Some of my favorites Spotify Playlist
