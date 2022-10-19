@@ -1,8 +1,10 @@
 Hi! 😃 I'm Lau 👨‍💻
 
-**My team is #super-powercity**. I'm currently working in moving partners to VEE (it will finish soon).
+**My team is #HyperPandas**. I'm currently support Ditto.
 
-**Mostly all my time is over FE issues**, meanwhile a new tool called Ditto is been developed by our team in which we all are participating (that it will be awesome when it were finished).
+**Mostly all my time is over FE issues**.
+
+I'm a cybersecurity fan & love to write documentation. When I'm not eating, I like to go to gym.
 
 **My tool set is full stack**:
 - Back-End > python & javascript, like Flask Django Node.js Express with SQL & NoSQL like MariaDB PostgreSQL MongoDB. Other languages and frameworks are PHP & WordPress.
